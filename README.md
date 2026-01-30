@@ -26,11 +26,11 @@ Projeto criado com foco em **prática de backend Java**, consumo de API externa,
 ---
 ## 📦 Estrutura do Projeto
 
-src/
-├─ consumo da API (Conversao)
-├─ orquestra regras (GerenciadorConversao)
-├─ histórico de transações
-├─ records e entidades
+src/<br>
+├─ consumo da API (Conversao) <br>
+├─ orquestra regras (GerenciadorConversao)<br>
+├─ histórico de transações<br>
+├─ records e entidades<br>
 └─ ui/ → Main (menu/console)
 
 ## ⚙️ Configuração
